@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreFrontLog", "CoreFrontLog\CoreFrontLog.csproj", "{095B1616-BDF4-4772-9427-D1F1095BB207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBackLog", "CoreBackLog\CoreBackLog.csproj", "{D3E74271-59E0-42AF-AA52-EF26C7A18353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095B1616-BDF4-4772-9427-D1F1095BB207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095B1616-BDF4-4772-9427-D1F1095BB207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095B1616-BDF4-4772-9427-D1F1095BB207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095B1616-BDF4-4772-9427-D1F1095BB207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E74271-59E0-42AF-AA52-EF26C7A18353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E74271-59E0-42AF-AA52-EF26C7A18353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E74271-59E0-42AF-AA52-EF26C7A18353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E74271-59E0-42AF-AA52-EF26C7A18353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AE10F4-75D9-427B-856D-7D585095B587}
+	EndGlobalSection
+EndGlobal
